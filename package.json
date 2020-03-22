@@ -1,0 +1,24 @@
+{
+  "name": "component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "echarts": "^4.7.0",
+    "handsontable": "^7.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuxueyao/component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuxueyao/component/issues"
+  },
+  "homepage": "https://github.com/wuxueyao/component#readme"
+}
